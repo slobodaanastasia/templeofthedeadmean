@@ -1,0 +1,148 @@
+body{
+   background-image: url('https://abrakadabra.fun/uploads/posts/2022-02/1644481098_2-abrakadabra-fun-p-fon-voini-bez-lyudei-2.jpg');
+  background-size: cover;         /* масштабирует картинку на весь экран */
+  background-position: center;    /* центрирует картинку */
+  background-repeat: no-repeat;   /* отключает повтор */
+ height: 250px;
+}
+.center{
+  color: white;
+   margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center; 
+      align-items: center;     
+      color: white;
+      font-family:Arial Narrow';
+
+}
+ .image-row {
+      display: flex;
+      width: 100%;
+    }
+    .image-row img {
+      width: 25%;
+      height: auto;
+      display: block;
+      padding:20px;
+      border-radius:10%;
+      
+    }
+    .image-row img:hover{
+       scale: 1.1;
+       }
+       .wer{
+          text-align: center;
+          margin-bottom: 60px;
+          font-size: 25px;
+          background-color: black;
+          color: azure;
+          margin-left: 550px;
+          margin-right: 550px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          }
+          .bbb{
+              background-image: url('https://lh3.googleusercontent.com/proxy/TWPCjOFAY_Nw9NpfyAKNb0F9QPlzrgPO2jLpEuy-VV81iaurheRLdCPWLs1JLtgRki5uoKB2KF5p3SZJ6X0BdydjsOo5TV2-C-jTsupEYDrY2fa4xUtukEUpY4fh');
+  background-size: cover;         /* масштабирует картинку на весь экран */
+  background-position: center;    /* центрирует картинку */
+  background-repeat: no-repeat;   /* отключает повтор */
+ height: 660px;
+ padding-top: 40px;
+ margin: 0px;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.wer:hover{
+   background-color: whitesmoke;
+   color: black;
+   border: 1px solid black;
+}
+body{
+   background-color: black;
+}
+.aaa{
+   color: whitesmoke;
+   text-align: center;
+   font-size: 25px;
+   padding-top: 30px;
+   border-top: 2px solid whitesmoke;
+}
+.ccc{
+   color: whitesmoke;
+   border-top: 2px solid whitesmoke;
+   border-bottom: 2px solid whitesmoke;
+   
+}
+.aaa::first-letter{
+   font-size: 50px;
+   color: #C93C20;
+}
+.vvv{
+   font-size: 30px;
+}
+.vvv::first-letter{
+   color: #C93C20;
+}
+.footer {
+  background-color:#C93C20 ;
+  color: #fff;
+  padding: 40px 20px 20px;
+  font-family: Arial, sans-serif;
+}
+
+.footer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-column {
+  flex: 1 1 200px;
+  margin: 10px;
+}
+
+.footer-column h4 {
+  margin-bottom: 15px;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.footer-column ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-column ul li {
+  margin-bottom: 10px;
+}
+
+.footer-column ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.footer-column ul li a:hover {
+  text-decoration: underline;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.social-icons img {
+  width: 24px;
+  height: 24px;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 14px;
+}
